@@ -34,7 +34,7 @@ Currently exploring advanced VLSI design methodologies as part of my postgraduat
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/arshadansari04/)
+- 💼 [LinkedIn](https://linkedin.com/in/https:/www.linkedin.com/in/arshadansari04/)
 - 📧 ansariarshad2305@gmail.com (update as needed)
 
 ---
