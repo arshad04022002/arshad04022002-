@@ -45,5 +45,3 @@ Currently exploring advanced VLSI design methodologies as part of my postgraduat
 ![Profile Views](https://komarev.com/ghpvc/?username=arshad04022002&color=58a6ff&style=flat-square&label=Profile+Views)
 
 ![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=arshad04022002.arshad04022002)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad04022002&layout=compact&theme=github_dark&hide_border=true)
