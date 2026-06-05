@@ -15,6 +15,7 @@ Currently exploring advanced VLSI design methodologies as part of my postgraduat
 ![C Language](https://img.shields.io/badge/C%20Language-00599C?style=flat-square&logo=c&logoColor=white)
 ![TCL Scripting](https://img.shields.io/badge/TCL%20Scripting-e36209?style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA-0075ca?style=flat-square)
+![STA](https://img.shields.io/badge/STA-e36209?style=flat-square)
 ![Digital IC](https://img.shields.io/badge/Digital%20IC%20Design-8957e5?style=flat-square)
 ![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-e36209?style=flat-square)
 ![Analog CMOS](https://img.shields.io/badge/Analog%20CMOS-8957e5?style=flat-square)
