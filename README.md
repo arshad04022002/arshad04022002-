@@ -16,7 +16,6 @@
 - 🔬 RTL Design · Clock Domain Crossing · FPGA · Chip Design
 - 📍 Hamirpur, Himachal Pradesh, India
 - 💼 Open to VLSI internships & research collaborations
-- ✍️ Writing about Verilog & FPGA for ECE students on LinkedIn
 
 ---
 
@@ -51,16 +50,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshad04022002&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad04022002&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff)
-
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshad04022002&theme=github_dark&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
