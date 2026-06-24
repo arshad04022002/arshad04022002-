@@ -41,6 +41,7 @@
 |---------|-------------|-------|
 | [Async FIFO](https://github.com/arshad04022002/async-fifo) | 6-module CDC design with Gray code pointer synchronization | Verilog · Vivado |
 | [Up/Down Counter](https://github.com/arshad04022002/up-down-counter) | Dual counter verified via shared testbench & single waveform | Verilog · Vivado |
+| [Booth's Multiplier](https://github.com/arshad04022002/booth-multiplier) | Signed 4-bit multiplier — full FPGA flow with timing, power & DRC analysis | Verilog · Vivado · Kintex-7 |
 
 ---
 
