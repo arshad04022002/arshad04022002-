@@ -57,6 +57,7 @@
 ![FPGA](https://img.shields.io/badge/FPGA-0075ca?style=flat-square)
 ![CDC](https://img.shields.io/badge/CDC-0075ca?style=flat-square)
 ![STA](https://img.shields.io/badge/STA-0075ca?style=flat-square)
+![Microarchitecture](https://img.shields.io/badge/Microarchitecture-0075ca?style=flat-square)
 
 **⚫ Others**
 
